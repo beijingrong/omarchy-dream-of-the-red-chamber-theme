@@ -6,7 +6,7 @@ the line from *Dream of the Red Chamber*:
 > 孤标傲世携谁隐，一样花开为底迟。
 
 The companion
-[`Red Chamber Petals`](https://github.com/beijingrong/omarchy-red-chamber-petals)
+[`Red Chamber Petals`](https://github.com/beijingrong/omarchy-dream-of-the-red-chamber-petals)
 plugin adds restrained blush, rose, and ivory chrysanthemum petals on Wayland's
 bottom layer.
 
@@ -15,7 +15,7 @@ bottom layer.
 Install the plugin first, then the theme:
 
 ```bash
-omarchy plugin add https://github.com/beijingrong/omarchy-red-chamber-petals.git --enable
+omarchy plugin add https://github.com/beijingrong/omarchy-dream-of-the-red-chamber-petals.git --enable
 omarchy theme install https://github.com/beijingrong/omarchy-dream-of-the-red-chamber-theme.git
 ```
 

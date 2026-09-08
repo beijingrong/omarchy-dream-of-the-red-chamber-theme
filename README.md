@@ -1,5 +1,9 @@
 # Dream of the Red Chamber
 
+![Dream of the Red Chamber theme with Red Chamber Petals on a real Omarchy desktop](preview.webp)
+
+*真实桌面截图：红楼梦主题与落花插件组合效果。 / Real desktop preview: the companion theme and falling-petal plugin together.*
+
 A pale, warm Omarchy theme inspired by Lin Daiyu in a chrysanthemum garden and
 the line from *Dream of the Red Chamber*:
 

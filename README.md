@@ -45,7 +45,7 @@ omarchy plugin remove io.github.beijingrong.red-chamber-petals
 
 - `colors.toml` — the light rose, garden green, and warm paper palette
 - `icons.theme` — the icon theme selection
-- `backgrounds/grand-view-garden.png` — the static wallpaper and fallback
+- `backgrounds/grand-view-garden.webp` — the static wallpaper and fallback
 - `red-chamber-petals.toml` — data-only opt-in marker for the companion plugin
 
 ## Artwork provenance
